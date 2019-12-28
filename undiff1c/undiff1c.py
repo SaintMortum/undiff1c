@@ -160,7 +160,9 @@ def main():
                      '<d3p1:fullIntervalEnd>', '<d3p1:visualBegin>',
                      '<xr:TypeId>',
                      '<xr:ValueId>',
-                     '<d4p1:id>'
+                     '<d4p1:id>',
+                     '<pl:begin>',
+                     '<pl:end>'
                      )
     typefiles = ('template.xml', 
                  'form.xml'
